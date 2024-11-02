@@ -1,7 +1,7 @@
 # D3 Directed Asyclic Graph
 Flow chart / DAG editor built on d3.js
 
-[Demo](http://brandonclapp.github.io/process-editor/)
+[Demo](http://brandonclapp.github.io/d3-directed-asyclic-graph/)
 
 ### Usage
 
