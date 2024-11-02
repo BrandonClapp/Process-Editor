@@ -1,5 +1,5 @@
-# Process-Editor
-Flow chart editor built on d3.js
+# D3 Directed Asyclic Graph
+Flow chart / DAG editor built on d3.js
 
 [Demo](http://brandonclapp.github.io/process-editor/)
 
